@@ -1,4 +1,4 @@
-# Whats in Session?
+# What's in Session?
 
 **1. Session 1 => Basic Profile which non functional buttons** 
 ![Basic Layout](https://flutter.dev/assets/ui/layout/lakes-2e8707102ca4f56f44e40ce3703606e1600ac1574fe5544c0f2d96f966bed853.jpg)
